@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mrtokyo/Documents/Projects/burrito-launch/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
